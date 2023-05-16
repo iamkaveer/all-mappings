@@ -67,3 +67,11 @@ Book Endpoints
 3. POST /add-Book: Creates a new Book.
 4. PUT /update-Book/{id}: Updates an existing Book by ID.
 5. DELETE /delete-book/{id}: Deletes a specific Book by ID.
+
+## Technologies
+The following technologies were used in this project:
+- Spring Boot
+- Lombok
+- Maven
+- java
+- Mysql  
